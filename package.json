@@ -1,0 +1,12 @@
+{
+  "name": "comp-bgbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comp-bgbox.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@code.vipkid.com.cn:3590/lingobus-fe/games/library/comp-bgbox.git"
+  },
+  "author": "wangweihua@vipkid.com.cn",
+  "license": "ISC"
+}
